@@ -4,8 +4,8 @@ import { Input } from "@/components/ui/input";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Label } from "@/components/ui/label";
 import { Lock } from "lucide-react";
-// import Dashboard from "../../pages/admin/Dashboard"; 
-import Dashboard from "../../pages/admin/AdminDashboard";
+import Dashboard from "../../pages/admin/dashboard"; 
+// import Dashboard from "../../pages/admin/AdminDashboard";
 
 export default function AdminLogin() {
   const [email, setEmail] = useState("");
