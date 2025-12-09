@@ -25,7 +25,7 @@ import "slick-carousel/slick/slick-theme.css";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import Terms from "./pages/Terms";
 import AdminLogin from "./pages/admin/AdminLogin";
-// import AdminDashboard from "./pages/admin/AdminDashboard";
+import AdminDashboard from "./pages/admin/AdminDashboard";
 import Dashboard from "./pages/admin/dashboard";
 import AdminProducts from "./pages/admin/AdminProducts";
 import AdminProductForm from "./pages/admin/AdminProductForm";
